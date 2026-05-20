@@ -1,7 +1,7 @@
 describe('Basic user flow for Website', () => {
   // First, visit the lab 7 website
   beforeAll(async () => {
-    await page.goto('http://127.0.0.1:5500/src/index.html');
+    await page.goto('https://cse110-sp25.github.io/CSE110-Shop/');
   });
 
   // Each it() call is a separate test
