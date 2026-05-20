@@ -1,3 +1,8 @@
+# CSE110 Lab 7
+
+Names:
+- Yizhen Han
+
 ## Check Your Understanding
 
 ### 1) Where would you fit your automated tests in your Recipe project development pipeline?
